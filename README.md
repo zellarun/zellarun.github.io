@@ -1,6 +1,6 @@
 #**zellarun.github.io**
-## Zella's Github Page
-Hello! This is my Github page created in CS155
+## Zella's GitHub Page
+Hello! This is my GitHub page created in CS155
 
 My Hobbies are 
 * painting
