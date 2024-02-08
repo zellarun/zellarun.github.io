@@ -1,3 +1,9 @@
 #**zellarun.github.io**
 ## Zella's Github Page
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
+Hello! This is my Github page created in CS155
+
+My Hobbies are 
+* painting
+* listening to new music
+* cooking/baking
+
